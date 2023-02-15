@@ -7,6 +7,10 @@ FSE-Trabalho3
 
 Após importar o projeto, clicar em build e upload com a placa conectada no USB do computador.
 
+# Dashboard
+
+O dashboard criado pode ser acessado [aqui](http://164.41.98.25:443/dashboards/afb39060-a701-11ed-8436-09bf763c9306).
+
 # Vídeo
 
 https://youtu.be/1CCU6jZiMZE
